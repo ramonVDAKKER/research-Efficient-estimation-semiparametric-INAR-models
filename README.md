@@ -11,10 +11,7 @@ Contributions to the literature on integer-valued time series:
 <li> <a href="https://github.com/ramonVDAKKER/integer-valued-time-series/blob/main/DvdAW%20(2009%3B%20JRSBB)%20-%20Technical%20Appendix.pdf"  target="_blank"  rel="noopener noreferrer">Technical Appendix.</a> 
 </ul>
 <li>
- <li>
   <a href="https://doi.org/10.3150/08-BEJ153" target="_blank"  rel="noopener noreferrer">
  Drost., F.C., Van den Akker, R., and Werker, B.J.M. (2009). The asymptotic structure of nearly unstable non-negative integer-valued AR(1) models, <i>Bernoulli,  15(2), pp.297-324.</a>
-  <li>
-   <li>
  </ul>
   
