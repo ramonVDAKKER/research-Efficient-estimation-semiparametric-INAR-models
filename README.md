@@ -27,7 +27,7 @@ Other contributions to the literature on integer-valued time series:
    <li> <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1004283" target="_blank">Working paper version</a>
   </ul>
 <li>  Drost., F.C., Van den Akker, R., and Werker, B.J.M. (2009). <a href="https://doi.org/10.3150/08-BEJ153" target="_blank"  rel="noopener noreferrer">The asymptotic structure of nearly unstable non-negative integer-valued AR(1) models</a>, <i>Bernoulli</i> 15(2), pp.297-324.
-     <ul><li><a href="https://github.com/ramonVDAKKER/research-nonstationary-time-series-panel-data/blob/main/slides%20-%20nearly%20unstable%20INAR.pdf">Slides</a>
+     <ul><li><a href="https://github.com/ramonVDAKKER/research-Efficient-estimation-semiparametric-INAR-models/blob/main/slides%20-%20nearly%20unstable%20INAR.pdf">Slides</a>
     </ul>
  </ul>
   
