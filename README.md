@@ -7,6 +7,7 @@ The paper
  </li></ul>
 contained an appendix with proofs that was unfortunately not published alongside the paper. This appendix can be retrieved <a href="https://github.com/ramonVDAKKER/integer-valued-time-series/blob/main/DvdAW%20(2009%3B%20JRSBB)%20-%20Technical%20Appendix.pdf"  target="_blank"  rel="noopener noreferrer">here.</a> 
 
+
 See 
 <ul>
  <li>Faymonville, M. Javiera. Riffo, J. Rieger, and C. Jentsch (2024). <a href="https://doi.org/10.21105/joss.05386" target="_blank" rel="noopener noreferrer">
