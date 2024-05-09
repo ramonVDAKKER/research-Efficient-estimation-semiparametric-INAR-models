@@ -13,7 +13,7 @@ contained an appendix with proofs that was unfortunately not published alongside
 See 
 <ul>
  <li>Faymonville, M. Javiera. Riffo, J. Rieger, and C. Jentsch (2024). <a href="https://doi.org/10.21105/joss.05386" target="_blank" rel="noopener noreferrer">
-  spINAR: An R Package for Semiparametric and Parametric Estimation and Bootstrapping of Integer-Valued Autoregressive (INAR) Models</a>, <i>Journal of Open Source Software</i> 9(97), pages 5386
+  spINAR: An R Package for Semiparametric and Parametric Estimation and Bootstrapping of Integer-Valued Autoregressive (INAR) Models</a>, <i>Journal of Open Source Software</i> 9(97), pages 5386,
  </li></ul>
 for an implementation in R. See <a href="https://github.com/MFaymon/spINAR" target="_blank"  rel="noopener noreferrer">link</a> for the associated GitHub repository.
 </p>
